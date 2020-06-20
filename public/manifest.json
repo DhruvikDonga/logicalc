@@ -1,15 +1,20 @@
 {
     "name": "Logicalc",
-    "short_name": "LGC",
+    "short_name": "logicalc",
     "start_url": "index.html",
     "display": "standalone",
     "theme_color": "#0476F2",
     "background_color": "#fff",
     "icons": [
       {
-        "src": "download.png", 
-        "sizes": "512*18", 
-        "type": "png" 
+        "src": "download2.jpg", 
+        "sizes": "134x90", 
+        "type": "image/jpg" 
+      },
+      {
+        "src": "download3.png", 
+        "sizes": "194x194", 
+        "type": "image/png" 
       }
     ]
 
