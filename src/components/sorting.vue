@@ -69,7 +69,7 @@ export default {
 
                 console.log(leftIndex,rightIndex);
 
-      answers = answers+"<caption>"+items+"</caption><hr>";
+      answers = answers+"<caption>"+items+"</caption>";
 
       }
 function partition(items, left, right) {
@@ -77,7 +77,7 @@ function partition(items, left, right) {
         i       = left, //left pointer
         j       = right; //right pointer
         
-        answers =answers+"<h5>Pivot:-"+pivot+" | i pointer:-"+i+" | j pointer:-"+j+"</h5>" ;
+        answers =answers+"<hr><h5>Pivot:-"+pivot+" | i pointer:-"+i+" | j pointer:-"+j+"</h5>" ;
       
 
     while (i <= j) {

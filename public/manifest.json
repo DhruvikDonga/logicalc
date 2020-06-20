@@ -1,0 +1,16 @@
+{
+    "name": "Logicalc",
+    "short_name": "LGC",
+    "start_url": "index.html",
+    "display": "standalone",
+    "theme_color": "#0476F2",
+    "background_color": "#fff",
+    "icons": [
+      {
+        "src": "download.png", 
+        "sizes": "512*18", 
+        "type": "png" 
+      }
+    ]
+
+  }
